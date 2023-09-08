@@ -1,0 +1,19 @@
+{
+  "name": "jonas-stringcheck",
+  "version": "1.0.0",
+  "description": "this is the new stringcheck BERGEN wooo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonaashl/oslo-npm2.git"
+  },
+  "author": "jonas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonaashl/oslo-npm2/issues"
+  },
+  "homepage": "https://github.com/jonaashl/oslo-npm2#readme"
+}
